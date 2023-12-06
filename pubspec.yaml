@@ -1,0 +1,48 @@
+name: toke_app1
+description: A new Flutter project.
+
+publish_to: 'none'
+
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.6 <4.0.0'
+
+
+dependencies:
+  audioplayers: ^5.2.1
+
+
+  flutter:
+    sdk: flutter
+
+
+
+  cupertino_icons: ^1.0.2
+  firebase_core: ^2.24.0
+
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+
+
+
+
+flutter:
+
+
+  uses-material-design: true
+
+
+  assets:
+    - assets/images/numbers/
+    - assets/images/family_members/
+    - assets/images/colors/
+
+
+
+

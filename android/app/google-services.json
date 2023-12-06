@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "337859325244",
+    "project_id": "project-ef4a8",
+    "storage_bucket": "project-ef4a8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:337859325244:android:3c767379b2eab256ce4239",
+        "android_client_info": {
+          "package_name": "com.example.toke_app1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKJYYWGnB1IJ-9Ndg2xlOYdCNyBkBlg10"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
